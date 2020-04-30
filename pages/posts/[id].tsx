@@ -1,5 +1,5 @@
 import React from "react";
-const Post: React.FC = ()=>{
+const Post: React.FC = ({Post: })=>{
     return(
         <main>{}</main>
     )
